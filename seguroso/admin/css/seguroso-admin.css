@@ -1,0 +1,7 @@
+table.g2-d-table thead th, table.g2-d-table thead td, table.g2-d-table tfoot th, table.g2-d-table tfoot td, table.g2-d-table tbody.thead th, table.g2-d-table tbody.thead td {
+    background-color: #222;
+    border-color: #474747;
+    color: #fff;
+    font-weight: bold;
+    text-align: left;
+}
